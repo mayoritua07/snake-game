@@ -53,5 +53,3 @@ else:
     print(f"you were wrong, The {winner.pencolor()} turtle is the winner")
 
 screen.exitonclick()
-
-# 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
